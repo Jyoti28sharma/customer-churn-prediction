@@ -1,2 +1,26 @@
-# customer-churn-prediction
-his project predicts telecom customer churn using logistic regression. It analyzes demographic and contract features to estimate churn risk. The model highlights contract duration as the strongest churn driver and supports data-driven customer retention strategies.
+# Customer Churn Prediction
+
+This project predicts customer churn using Logistic Regression on the Telco Customer Churn dataset.
+
+## Features Used
+- PhoneService
+- Gender
+- SeniorCitizen
+- Partner
+- Contract
+
+## Model
+- Logistic Regression (Scikit-learn)
+
+## Key Insight
+Contract duration is the strongest predictor of churn. Month-to-month customers show the highest churn risk.
+
+## Tools
+- Python
+- Pandas
+- Scikit-learn
+- Kaggle
+
+## Author
+Jyoti Sharma
+
