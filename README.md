@@ -24,3 +24,6 @@ Contract duration is the strongest predictor of churn. Month-to-month customers 
 ## Author
 Jyoti Sharma
 
+## Kaggle links
+- Kaggle Notebook: <https://www.kaggle.com/code/jyoti28sharma/churn-2026>
+
